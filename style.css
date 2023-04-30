@@ -7,9 +7,7 @@ body{
     background-color: hotpink;
 }
 header{
-  
     background-image: url("./img/cs1.jpg");
-    
     background-position: center center;
     background-size: cover;
     margin: auto;
@@ -22,9 +20,10 @@ header{
 main{
     background-color:whitesmoke;
 }
-footer{
-    background-color:hotpink;
-    font-size: 200%;
+footer, a{
+    background-color:#212519;
+    font-size: 100%;
+    color: hotpink;
 }
 
 
@@ -57,4 +56,8 @@ footer{
       display: block;
     }
   }
-  /**/
+ 
+  .bemutatkozo{
+    background-color: white;
+    }
+  
