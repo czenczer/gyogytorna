@@ -6,6 +6,9 @@ body{
 .div{
     background-color: hotpink;
 }
+a{
+color: hotpink;
+}
 header{
     background-image: url("./img/cs1.jpg");
     background-position: center center;
@@ -20,7 +23,7 @@ header{
 main{
     background-color:whitesmoke;
 }
-footer, a{
+footer{
     background-color:#212519;
     font-size: 100%;
     color: hotpink;
