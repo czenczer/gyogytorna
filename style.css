@@ -7,7 +7,9 @@ body{
     background-color: hotpink;
 }
 header{
+  
     background-image: url("./img/cs1.jpg");
+    
     background-position: center center;
     background-size: cover;
     margin: auto;
@@ -18,7 +20,6 @@ header{
     height: 700px;
 }
 main{
-    font-family: 'Oleo Script Swash Caps', cursive;
     background-color:whitesmoke;
 }
 footer{
