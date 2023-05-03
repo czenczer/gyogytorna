@@ -27,8 +27,12 @@ footer{
     background-color:#212519;
     font-size: 100%;
     color: hotpink;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
-
+a {
+  text-decoration: none; /* eltávolítja az aláhúzást */
+}
 
 /**/
 .navbar {
